@@ -4,7 +4,7 @@ public class Diamond {
 	private int x, y;
 	private int w, h;
 	private String imgName;
-	private int point;
+	private int point= 20;
 	
 	public int getX() {
 		return x;
